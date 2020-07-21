@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gdifuncs", "gdifuncs\gdifuncs.csproj", "{9DBED04A-0A95-4BED-A7FC-66D9219789A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DBED04A-0A95-4BED-A7FC-66D9219789A1}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{9DBED04A-0A95-4BED-A7FC-66D9219789A1}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{9DBED04A-0A95-4BED-A7FC-66D9219789A1}.Debug|x64.ActiveCfg = Release|x64
+		{9DBED04A-0A95-4BED-A7FC-66D9219789A1}.Debug|x64.Build.0 = Release|x64
+		{9DBED04A-0A95-4BED-A7FC-66D9219789A1}.Release|Any CPU.ActiveCfg = Release|x64
+		{9DBED04A-0A95-4BED-A7FC-66D9219789A1}.Release|Any CPU.Build.0 = Release|x64
+		{9DBED04A-0A95-4BED-A7FC-66D9219789A1}.Release|x64.ActiveCfg = Release|x64
+		{9DBED04A-0A95-4BED-A7FC-66D9219789A1}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+EndGlobal
