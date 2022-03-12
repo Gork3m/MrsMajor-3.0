@@ -1,3 +1,6 @@
+Before you ask, key is 3_kT6p?E 
+
+
 # Do not use this code for malicious purposes, or you'll have a bad time at jail. (not kidding).
 
 # This source is for antivirus developers, or people into malware analysing. 
