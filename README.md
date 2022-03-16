@@ -1,4 +1,4 @@
-Before you ask, key is 3_kT6p?E 
+Before you ask, key is Fed2099E 
 
 
 # Do not use this code for malicious purposes, or you'll have a bad time at jail. (not kidding).
